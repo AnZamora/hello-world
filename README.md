@@ -1,2 +1,4 @@
 # hello-world
-First repositary
+What's up!
+
+You learn new everyday.
